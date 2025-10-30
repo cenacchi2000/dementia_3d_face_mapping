@@ -4,6 +4,7 @@ numpy>=1.26,<3
 pandas>=2.2,<3
 scikit-learn>=1.5,<1.8
 opencv-python-headless>=4.10,<5
+# Only install mediapipe on py<3.12 where wheels exist
 mediapipe==0.10.14 ; python_version < '3.12'
 umap-learn==0.5.6
 hdbscan==0.8.36
