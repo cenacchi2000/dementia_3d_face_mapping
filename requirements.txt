@@ -1,0 +1,12 @@
+streamlit>=1.33,<2.0
+plotly>=5.20
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+opencv-python-headless>=4.8
+mediapipe>=0.10
+scipy>=1.11
+Pillow>=10.0
+umap-learn>=0.5
+hdbscan>=0.8
+matplotlib>=3.8
