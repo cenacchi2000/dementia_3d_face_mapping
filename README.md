@@ -10,8 +10,6 @@ The project investigates a central question:
 
 **Research lead and first author:** Filippo Cenacchi, Macquarie University.
 
-**Research prototype — not a clinically validated diagnostic tool.**
-
 [Paper](https://arxiv.org/abs/2511.13802) ·
 [Project overview](https://cenacchi2000.github.io/filippocenacchi.github.io/passive-dementia-screening.html) ·
 [Academic profile](https://cenacchi2000.github.io/filippocenacchi.github.io/)
